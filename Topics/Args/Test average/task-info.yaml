@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def average_mark():
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9552#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 17 Jun 2022 03:49:36 UTC
+record: -1
